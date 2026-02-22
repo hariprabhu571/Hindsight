@@ -1,6 +1,29 @@
-# 🧠 Memory Search
+# 🧠 Hindsight
 
 A powerful desktop application that automatically tracks your digital activity and lets you search through your computer usage history. Built with Tauri, React, and Rust.
+
+![Hindsight App](Screenshots/Screenshot%202026-02-22%20121110.png)
+
+## Screenshots
+
+<div align="center">
+
+### Search Interface
+![Search View](Screenshots/Screenshot%202026-02-22%20121119.png)
+
+### Statistics Dashboard
+![Stats View](Screenshots/Screenshot%202026-02-22%20121128.png)
+
+### Timeline View
+![Timeline](Screenshots/Screenshot%202026-02-22%20121136.png)
+
+### Dark Mode
+![Dark Mode](Screenshots/Screenshot%202026-02-22%20121143.png)
+
+### Settings & Privacy
+![Settings](Screenshots/Screenshot%202026-02-22%20121154.png)
+
+</div>
 
 ## Features
 
